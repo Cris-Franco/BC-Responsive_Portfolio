@@ -6,3 +6,12 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.row {
+    padding-top: 50px;
+    align-self: center;
+}
+img {
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
