@@ -15,3 +15,7 @@ img {
     width: 200px;
     align-self: center;
 }
+
+p {
+    line-height: 2.5rem;
+}
